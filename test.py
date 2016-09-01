@@ -5,4 +5,4 @@ else:
       print("Even nab")
       
 print("huehue")
-print("fking hell")
+print("maaaaaaan")
